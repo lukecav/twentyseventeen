@@ -1,3 +1,7 @@
+>## This Project Is Deprecated
+
+> Initial development for Twenty Seventeen happened on GitHub. Please do not create issues or send pull requests. Submit patches to [WordPress Core]https://make.wordpress.org/core/components/themes/) instead.
+
 # Twenty Seventeen
 
 [![Build Status](https://travis-ci.org/WordPress/twentyseventeen.svg?branch=master)](https://travis-ci.org/WordPress/twentyseventeen)
