@@ -1,6 +1,6 @@
->## This Project Is Deprecated
+>## This Project is not being actively developed on GitHub Anymore
 
-> Initial development for Twenty Seventeen happened on GitHub. Please do not create issues or send pull requests. Submit patches to [WordPress Core]https://make.wordpress.org/core/components/themes/) instead.
+> Initial development for Twenty Seventeen happened on GitHub. Please do not create issues or send pull requests. Submit patches to WordPress Core https://make.wordpress.org/core/components/themes/ instead.
 
 # Twenty Seventeen
 
