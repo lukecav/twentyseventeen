@@ -1,4 +1,4 @@
->## This Project is not being actively developed on GitHub Anymore
+>## This project is not being actively developed on GitHub anymore
 
 > Initial development for Twenty Seventeen happened on GitHub. Please do not create issues or send pull requests. Submit patches to WordPress Core https://make.wordpress.org/core/components/themes/ instead.
 
